@@ -1,0 +1,33 @@
+body{
+    Font-family: "Roboto", sans-serif;
+
+
+}
+
+.text-secondary{
+    font-weight: 80;
+    color: #707070;
+    margin: 0;
+}
+.text-secondary-2 {
+    font-size: 13px;
+    color: #707070;
+    font-weight: 80;
+}   
+.card{
+margin-top: 80px;
+
+}
+
+.row{
+padding-left: 80px;
+
+}
+
+#price{
+color: #28a745;
+    font-weight: 500;
+    font-size: x-large;
+
+
+}
